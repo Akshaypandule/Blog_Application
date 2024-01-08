@@ -18,6 +18,11 @@ import java.util.Set;
 @Getter
 public class Post {
 
+    // new product
+
+
+    // new Product
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer postId;
